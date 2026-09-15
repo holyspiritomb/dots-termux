@@ -1,0 +1,64 @@
+{
+  "coc.preferences.bracketEnterImprove": true,
+  "coc.preferences.maxFileSize": "1MB",
+  "coc.preferences.messageLevel": "more",
+  "coc.source.file.enable": true,
+  "diagnostic.displayByAle": true,
+  "diagnostic.format": "%message (%source%code)",
+  "svg.format.plugins": {
+      "sortAttrs": true
+  },
+  "dialog.maxWidth": 60,
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextAlign": "below",
+  "html-css-support.enable": true,
+  "html.hover.documentation": true,
+  "html.suggest.html5": true,
+  "lightbulb.enableVirtualText": true,
+  "lightbulb.text": {"default": "󰌵","quickfix": "󰁨"},
+  "snippets.loadFromExtensions": true,
+  "snippets.ultisnips.pythonPrompt": false,
+  "suggest.enableFloat": true,
+  "suggest.filterOnBackspace": true,
+  "suggest.floatConfig": {"rounded": true, "shadow": true},
+  "suggest.maxCompleteItemCount": 25,
+  "suggest.minTriggerInputLength": 1,
+  "suggest.virtualText": false,
+  "fileSystemWatch.ignoredFolders": [
+      "/private/tmp",
+      "/",
+      "**/node_modules",
+      "${tmpdir}",
+      "**/.git",
+      "**/__pycache__",
+      "**/.cargo/git",
+      "/data/data/com.termux/files/home/.cache"
+  ],
+  "vimlsp.suggest.fromRuntimepath": true,
+  "vimlsp.suggest.fromVimruntime": true,
+  "dialog.maxHeight": 5,
+  "diagnostic.floatConfig": {
+    "maxWidth": 60,
+    "maxHeight": 5,
+    "border": true,
+    "rounded": true,
+    "close": true
+  },
+  "pylsp.enable": false,
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportDuplicateImport": "warning",
+    "reportAssignmentType": "none",
+    "reportArgumentType": "none",
+    "reportIncompatibleMethodOverride": "none",
+    "reportMissingModuleSource": "warning",
+    "reportGeneralTypeIssues": "information",
+    "reportUnusedClass": "information",
+    "reportUnusedImport": "information",
+    "reportUnusedVariable": "information",
+    "reportOptionalMemberAccess": false
+  },
+  "extensions.updateCheck": "never",
+  "json.schemaDownload.trustedDomains": {
+    "https://www.schemastore.org": true
+  }
+}
