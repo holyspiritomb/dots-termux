@@ -1,8 +1,8 @@
 return {
   {
-    "liubianshi/icon-picker.nvim",
+    "ziontee113/icon-picker.nvim",
     dependencies = {
-        "stevearc/dressing.nvim",
+      "stevearc/dressing.nvim",
     },
     config = function()
       require("icon-picker").setup({
