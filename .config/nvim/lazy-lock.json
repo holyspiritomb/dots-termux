@@ -11,7 +11,7 @@
   "dressing.nvim": { "branch": "master", "commit": "2d7c2db2507fa3c4956142ee607431ddb2828639" },
   "garbage-day.nvim": { "branch": "main", "commit": "225b715cf7e502977e5e040219cf5009eed70ee1" },
   "gitsigns.nvim": { "branch": "main", "commit": "a462f416e2ce4744531c6256252dee99a7d34a83" },
-  "icon-picker.nvim": { "branch": "master", "commit": "8672067ded3f31ea4d65287d7cde481a24972dec" },
+  "icon-picker.nvim": { "branch": "master", "commit": "3ee9a0ea9feeef08ae35e40c8be6a2fa2c20f2d3" },
   "import.nvim": { "branch": "main", "commit": "7f6116ce53a9176f8e7aaf3e41cc60be11c7d8ee" },
   "indent-blankline.nvim": { "branch": "master", "commit": "f1e186e44d3b7f9ae918008e2c28ce37c6023d2d" },
   "lavender.nvim": { "branch": "main", "commit": "bbb7c04952378d5430521206d42c48dcc413ac1e" },
