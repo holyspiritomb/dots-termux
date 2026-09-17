@@ -96,6 +96,7 @@ external_plugins=(
   hlissner/zsh-autopair
   # lukechilds/zsh-better-npm-completion
   # unixorn/git-extra-commands
+  kud/glyphs
   Ulfada/yadm-zsh
   spodin/zsh-fuzzy-wd
   zsh-users/zsh-autosuggestions
